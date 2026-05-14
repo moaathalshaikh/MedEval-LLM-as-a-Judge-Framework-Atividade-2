@@ -9,6 +9,9 @@
 MedEval is a research platform that implements the **LLM-as-a-Judge** paradigm to evaluate Small Language Models (SLMs) on medical question-answering tasks. It stores the entire evaluation lifecycle in a PostgreSQL relational database, enabling full traceability and reproducibility.
 
 > *"It is not enough to evaluate — it is necessary to know **who** evaluated, **when**, and under **what explanatory logic**."*
+
+The platform was designed and developed by Moaath Almohammad Alshaikh, who built the full-stack system — React frontend, Node.js backend, and PostgreSQL integration — on top of the initial database schema established by Marcelo West.
+
 > — Prof. Glauco Carneiro
 
 ---
@@ -23,12 +26,12 @@ MedEval is a research platform that implements the **LLM-as-a-Judge** paradigm t
 
 | Name | Role |
 |---|---|
-| Moaath Almohammad Alshaikh | Database architecture, Spearman analysis |
+| Moaath Almohammad Alshaikh | Full-stack development, Frontend (React), Database architecture & integration, System design, Spearman analysis, Prompt engineering, Database architecture |
 | Tasneem Alshaher | SLM Models, Dataset management |
-| Marcelo West | Backend API, Evaluation Engine |
-| Clélio Xavier | Judge pipeline, Prompt engineering |
+| Marcelo West | Database architecture |
+| Clélio Xavier | Judge pipeline |
 | Sérgio Santos | Human evaluation, Results analysis |
-| Hernandison Bispo | Frontend, Research Insights |
+| Hernandison Bispo | Research Insights |
 
 ---
 
