@@ -26,8 +26,8 @@ The platform was designed and developed by Moaath Almohammad Alshaikh, who built
 
 | Name | Role |
 |---|---|
-| Moaath Almohammad Alshaikh | Full-stack development, Frontend (React), Database architecture & integration, System design, Spearman analysis, Prompt engineering |
-| Tasneem Alshaher | SLM Models, Dataset management |
+| Moaath Almohammad Alshaikh | Full-stack development, Frontend (React), Database architecture & integration, System design, Spearman analysis |
+| Tasneem Alshaher | SLM Models, Dataset management, Prompt engineering |
 | Marcelo West | Database architecture |
 | Clélio Xavier | Judge pipeline |
 | Sérgio Santos | Human evaluation, Results analysis |
